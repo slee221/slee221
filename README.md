@@ -1,6 +1,13 @@
-## Hi there 👋
+# About me🙄
+
+### I'm currently working on Huntington's Disease.
+### I'm currently learning Python.
+
+
+
 
 <!--
+## Hi there 👋
 **slee221/slee221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
